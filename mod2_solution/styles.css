@@ -9,7 +9,10 @@ h1 {
 	color: #000000;
 	text-align: center;
 }
-
+body {
+	background-image: url("background.jpg");
+	background-color: #FEF5CA;
+}
 
 
 p {
